@@ -39,3 +39,61 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# EvidenceOS external evidence vault safety
+evidence_os_evidence_vault/
+../evidence_os_evidence_vault/
+D:/evidence_os_evidence_vault/
+D:\evidence_os_evidence_vault\
+
+# Raw evidence files should not be committed to app repo
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.csv
+*.twb
+*.twbx
+*.hyper
+*.zip
+*.7z
+*.rar
+
+# Raw images/screenshots should stay in evidence vault unless explicitly approved into public assets
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.avif
+
+# Local AI / model / OCR outputs
+private/
+local-ai/
+raw-evidence/
+ocr-output/
+gemma-output/
+rag-output/
+vector-store/
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+
+# Python / local env safety
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Next/build safety
+.next/
+out/
+dist/
+
+# Environment files
+.env
+.env.local
+.env*.local
