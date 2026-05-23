@@ -8,7 +8,6 @@
     "visibility":  "private-draft",
     "projectType":  "github-code-project",
     "claimSensitivity":  "high",
-    "evidenceVaultPath":  "D:\\evidence_os_evidence_vault\\projects\\gold-nexus-alpha",
     "publicSafeDescription":  "",
     "summary":  "",
     "primarySkills":  [
@@ -33,5 +32,6 @@
     "limitations":  [
 
                     ],
-    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault."
+    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault.",
+    "evidenceVaultRef":  "external-vault/projects/gold-nexus-alpha"
 }

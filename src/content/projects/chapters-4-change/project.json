@@ -8,7 +8,6 @@
     "visibility":  "private-draft",
     "projectType":  "campaign-website-project",
     "claimSensitivity":  "low-medium",
-    "evidenceVaultPath":  "D:\\evidence_os_evidence_vault\\projects\\chapters-4-change",
     "publicSafeDescription":  "",
     "summary":  "",
     "primarySkills":  [
@@ -33,5 +32,6 @@
     "limitations":  [
 
                     ],
-    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault."
+    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault.",
+    "evidenceVaultRef":  "external-vault/projects/chapters-4-change"
 }
