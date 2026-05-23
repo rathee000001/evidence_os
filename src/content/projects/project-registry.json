@@ -1,0 +1,110 @@
+﻿[
+    {
+        "slug":  "gold-nexus-alpha",
+        "title":  "Gold Nexus Alpha / NYIT Gold Intelligence 2026",
+        "tier":  "tier-1",
+        "order":  1,
+        "status":  "evidence-collected",
+        "projectType":  "github-code-project",
+        "claimSensitivity":  "high"
+    },
+    {
+        "slug":  "hershey-supply-chain-ai",
+        "title":  "Hershey Supply Chain AI",
+        "tier":  "tier-1",
+        "order":  2,
+        "status":  "partial-evidence-collected",
+        "projectType":  "academic-project",
+        "claimSensitivity":  "high"
+    },
+    {
+        "slug":  "rathee-intelligence-lab",
+        "title":  "Rathee Intelligence Lab / Previous Portfolio Reference",
+        "tier":  "tier-1",
+        "order":  3,
+        "status":  "reference-project",
+        "projectType":  "legacy-reference-project",
+        "claimSensitivity":  "medium"
+    },
+    {
+        "slug":  "dataco-tableau",
+        "title":  "DataCo Tableau Supply Chain Story",
+        "tier":  "tier-2",
+        "order":  4,
+        "status":  "evidence-collected",
+        "projectType":  "tableau-dashboard-project",
+        "claimSensitivity":  "medium"
+    },
+    {
+        "slug":  "sec-10k-analysis",
+        "title":  "SEC 10-K Financial Statement Analysis",
+        "tier":  "tier-2",
+        "order":  5,
+        "status":  "evidence-collected",
+        "projectType":  "financial-analysis-project",
+        "claimSensitivity":  "medium"
+    },
+    {
+        "slug":  "meta-case-analysis",
+        "title":  "Meta Strategic Management Case Analysis",
+        "tier":  "tier-2",
+        "order":  6,
+        "status":  "evidence-collected",
+        "projectType":  "case-analysis-project",
+        "claimSensitivity":  "medium"
+    },
+    {
+        "slug":  "gias-experience",
+        "title":  "GIAS Real Estate Operations Experience",
+        "tier":  "tier-2",
+        "order":  7,
+        "status":  "pending-evidence",
+        "projectType":  "professional-experience",
+        "claimSensitivity":  "high"
+    },
+    {
+        "slug":  "gold-ai-platform",
+        "title":  "Gold AI Platform",
+        "tier":  "tier-3",
+        "order":  8,
+        "status":  "evidence-collected",
+        "projectType":  "legacy-gold-project",
+        "claimSensitivity":  "medium"
+    },
+    {
+        "slug":  "gold-forecasting-model",
+        "title":  "Gold Forecasting Model / V1",
+        "tier":  "tier-3",
+        "order":  9,
+        "status":  "evidence-collected",
+        "projectType":  "legacy-gold-project",
+        "claimSensitivity":  "medium"
+    },
+    {
+        "slug":  "chapters-4-change",
+        "title":  "Chapters 4 Change",
+        "tier":  "tier-3",
+        "order":  10,
+        "status":  "evidence-collected",
+        "projectType":  "campaign-website-project",
+        "claimSensitivity":  "low-medium"
+    },
+    {
+        "slug":  "the-book-fairies",
+        "title":  "The Book Fairies Fundraiser",
+        "tier":  "tier-3",
+        "order":  11,
+        "status":  "pending-cleanup",
+        "projectType":  "campaign-website-project",
+        "claimSensitivity":  "low-medium"
+    },
+    {
+        "slug":  "book-fairies-legacy",
+        "title":  "Book Fairies Legacy",
+        "tier":  "tier-3",
+        "order":  12,
+        "status":  "evidence-collected",
+        "projectType":  "legacy-campaign-project",
+        "claimSensitivity":  "low-medium"
+    }
+]

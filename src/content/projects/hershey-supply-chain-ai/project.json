@@ -1,0 +1,37 @@
+﻿{
+    "id":  "project_hershey_supply_chain_ai",
+    "slug":  "hershey-supply-chain-ai",
+    "title":  "Hershey Supply Chain AI",
+    "tier":  "tier-1",
+    "order":  2,
+    "status":  "partial-evidence-collected",
+    "visibility":  "private-draft",
+    "projectType":  "academic-project",
+    "claimSensitivity":  "high",
+    "evidenceVaultPath":  "D:\\evidence_os_evidence_vault\\projects\\hershey-supply-chain-ai",
+    "publicSafeDescription":  "",
+    "summary":  "",
+    "primarySkills":  [
+
+                      ],
+    "secondarySkills":  [
+
+                        ],
+    "roleFit":  [
+
+                ],
+    "proofTags":  [
+
+                  ],
+    "highlights":  [
+
+                   ],
+    "metrics":  [
+
+                ],
+    "evidenceStatus":  "collected-pending-ocr-review",
+    "limitations":  [
+
+                    ],
+    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault."
+}

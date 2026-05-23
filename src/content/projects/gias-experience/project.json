@@ -1,0 +1,37 @@
+﻿{
+    "id":  "project_gias_experience",
+    "slug":  "gias-experience",
+    "title":  "GIAS Real Estate Operations Experience",
+    "tier":  "tier-2",
+    "order":  7,
+    "status":  "pending-evidence",
+    "visibility":  "private-draft",
+    "projectType":  "professional-experience",
+    "claimSensitivity":  "high",
+    "evidenceVaultPath":  "D:\\evidence_os_evidence_vault\\projects\\gias-experience",
+    "publicSafeDescription":  "",
+    "summary":  "",
+    "primarySkills":  [
+
+                      ],
+    "secondarySkills":  [
+
+                        ],
+    "roleFit":  [
+
+                ],
+    "proofTags":  [
+
+                  ],
+    "highlights":  [
+
+                   ],
+    "metrics":  [
+
+                ],
+    "evidenceStatus":  "collected-pending-ocr-review",
+    "limitations":  [
+
+                    ],
+    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault."
+}

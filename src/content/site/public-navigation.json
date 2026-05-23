@@ -1,0 +1,68 @@
+﻿[
+    {
+        "label":  "Home",
+        "group":  "primary",
+        "description":  "EvidenceOS command center.",
+        "href":  "/"
+    },
+    {
+        "label":  "Projects",
+        "group":  "primary",
+        "description":  "Explore source-backed project evidence.",
+        "href":  "/projects"
+    },
+    {
+        "label":  "Experience",
+        "group":  "primary",
+        "description":  "Professional operations and analytics experience.",
+        "href":  "/experience"
+    },
+    {
+        "label":  "Academics",
+        "group":  "primary",
+        "description":  "Education, coursework, and academic projects.",
+        "href":  "/academics"
+    },
+    {
+        "label":  "Recommendations",
+        "group":  "primary",
+        "description":  "Public-safe recommendation and reference context.",
+        "href":  "/recommendations"
+    },
+    {
+        "label":  "Skills",
+        "group":  "primary",
+        "description":  "Skill-to-project evidence map.",
+        "href":  "/skills"
+    },
+    {
+        "label":  "Timeline",
+        "group":  "primary",
+        "description":  "Career and project evolution.",
+        "href":  "/timeline"
+    },
+    {
+        "label":  "Evidence",
+        "group":  "primary",
+        "description":  "Source chips and claim governance.",
+        "href":  "/evidence"
+    },
+    {
+        "label":  "Portfolio AI",
+        "group":  "primary",
+        "description":  "Ask evidence-backed questions.",
+        "href":  "/portfolio-ai"
+    },
+    {
+        "label":  "Resume",
+        "group":  "primary",
+        "description":  "General resume and CV.",
+        "href":  "/resume"
+    },
+    {
+        "label":  "Contact",
+        "group":  "primary",
+        "description":  "Contact Praveen directly.",
+        "href":  "/contact"
+    }
+]

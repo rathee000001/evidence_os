@@ -1,0 +1,17 @@
+﻿{
+    "rule":  "RAG retrieval must return source-backed, visibility-approved chunks only.",
+    "publicNamespaces":  [
+                             "projects",
+                             "skills",
+                             "timeline",
+                             "evidence",
+                             "roles"
+                         ],
+    "privateNamespaces":  [
+                              "jobs",
+                              "applications",
+                              "linkedin",
+                              "companies",
+                              "contacts"
+                          ]
+}

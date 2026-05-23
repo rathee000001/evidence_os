@@ -1,0 +1,22 @@
+﻿[
+    {
+        "status":  "approved-public",
+        "meaning":  "Can be shown publicly and used by AI/resume builder."
+    },
+    {
+        "status":  "approved-summary-only",
+        "meaning":  "Can be summarized publicly, raw source remains private."
+    },
+    {
+        "status":  "private-held",
+        "meaning":  "Evidence exists but cannot be public."
+    },
+    {
+        "status":  "pending-confirmation",
+        "meaning":  "Not ready for public use."
+    },
+    {
+        "status":  "do-not-use",
+        "meaning":  "False, risky, unsupported, private, or unsafe."
+    }
+]

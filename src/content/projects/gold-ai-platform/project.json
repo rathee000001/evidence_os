@@ -1,0 +1,37 @@
+﻿{
+    "id":  "project_gold_ai_platform",
+    "slug":  "gold-ai-platform",
+    "title":  "Gold AI Platform",
+    "tier":  "tier-3",
+    "order":  8,
+    "status":  "evidence-collected",
+    "visibility":  "private-draft",
+    "projectType":  "legacy-gold-project",
+    "claimSensitivity":  "medium",
+    "evidenceVaultPath":  "D:\\evidence_os_evidence_vault\\projects\\gold-ai-platform",
+    "publicSafeDescription":  "",
+    "summary":  "",
+    "primarySkills":  [
+
+                      ],
+    "secondarySkills":  [
+
+                        ],
+    "roleFit":  [
+
+                ],
+    "proofTags":  [
+
+                  ],
+    "highlights":  [
+
+                   ],
+    "metrics":  [
+
+                ],
+    "evidenceStatus":  "collected-pending-ocr-review",
+    "limitations":  [
+
+                    ],
+    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault."
+}

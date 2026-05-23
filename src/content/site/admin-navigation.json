@@ -1,0 +1,62 @@
+﻿[
+    {
+        "label":  "Dashboard",
+        "group":  "overview",
+        "href":  "/admin"
+    },
+    {
+        "label":  "Analytics",
+        "group":  "overview",
+        "href":  "/admin/analytics"
+    },
+    {
+        "label":  "Contacts",
+        "group":  "career-later",
+        "href":  "/admin/contacts"
+    },
+    {
+        "label":  "Application Tracker",
+        "group":  "career",
+        "href":  "/admin/application-tracker"
+    },
+    {
+        "label":  "Job Copilot",
+        "group":  "career",
+        "href":  "/admin/job-copilot"
+    },
+    {
+        "label":  "Resume Lab",
+        "group":  "career",
+        "href":  "/admin/resume-lab"
+    },
+    {
+        "label":  "Interview Prep",
+        "group":  "career",
+        "href":  "/admin/interview-prep"
+    },
+    {
+        "label":  "Brain Studio",
+        "group":  "ai",
+        "href":  "/admin/brain-studio"
+    },
+    {
+        "label":  "Project Ingest",
+        "group":  "evidence",
+        "href":  "/admin/project-ingest"
+    },
+    {
+        "label":  "Evidence Review",
+        "group":  "evidence",
+        "href":  "/admin/evidence-review"
+    },
+    {
+        "label":  "Asset Studio",
+        "group":  "assets-later",
+        "href":  "/admin/asset-studio"
+    },
+    {
+        "label":  "Settings",
+        "group":  "system",
+        "href":  "/admin/settings"
+    }
+]

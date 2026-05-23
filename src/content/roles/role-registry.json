@@ -1,0 +1,134 @@
+﻿[
+    {
+        "roleId":  "data-analyst",
+        "title":  "Data Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "supply-chain-analyst",
+        "title":  "Supply Chain Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "business-analyst",
+        "title":  "Business Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "risk-control-analyst",
+        "title":  "Risk / Control Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "forecasting-analyst",
+        "title":  "Forecasting Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "bi-analyst",
+        "title":  "BI Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "product-analytics",
+        "title":  "Product Analytics",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "entry-analytics-engineer",
+        "title":  "Entry Analytics Engineer",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "financial-analyst",
+        "title":  "Financial Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "procurement-vendor-risk-analyst",
+        "title":  "Procurement / Vendor Risk Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "operations-analyst",
+        "title":  "Operations Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    },
+    {
+        "roleId":  "ai-analyst",
+        "title":  "AI Analyst",
+        "coreSkills":  [
+
+                       ],
+        "strongProjects":  [
+
+                           ],
+        "resumeStrategy":  ""
+    }
+]

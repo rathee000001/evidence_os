@@ -1,0 +1,7 @@
+﻿{
+    "projectSlug":  "gold-forecasting-model",
+    "limitations":  [
+
+                    ],
+    "rule":  "Unsafe, unsupported, private, or unapproved claims must not be shown publicly."
+}

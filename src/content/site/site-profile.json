@@ -1,0 +1,18 @@
+﻿{
+    "siteId":  "evidence_os",
+    "productName":  "EvidenceOS",
+    "publicTitle":  "EvidenceOS — The 3D Career Intelligence Lab",
+    "ownerName":  "Praveen Rathee",
+    "tagline":  "Source-backed projects, skills, role-fit reasoning, and career intelligence.",
+    "primaryAudience":  [
+                            "recruiters",
+                            "hiring managers",
+                            "referral contacts",
+                            "professors"
+                        ],
+    "publicPositioning":  "A 3D career intelligence lab that turns real project evidence into recruiter-ready proof, role-fit reasoning, and source-backed AI explanations.",
+    "privatePositioning":  "A local AI-powered career operating system for project ingestion, evidence governance, resume generation, application tracking, and interview prep.",
+    "claimPolicyVersion":  "v6",
+    "visibility":  "public-safe",
+    "buildStatus":  "greenfield-in-progress"
+}

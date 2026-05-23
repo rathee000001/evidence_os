@@ -1,0 +1,4 @@
+﻿{
+    "rule":  "Public AI can only answer from approved JSON and approved RAG chunks.",
+    "refusalMessage":  "I do not have approved evidence for that claim yet."
+}

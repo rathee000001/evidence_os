@@ -1,0 +1,7 @@
+﻿{
+    "projectSlug":  "sec-10k-analysis",
+    "limitations":  [
+
+                    ],
+    "rule":  "Unsafe, unsupported, private, or unapproved claims must not be shown publicly."
+}

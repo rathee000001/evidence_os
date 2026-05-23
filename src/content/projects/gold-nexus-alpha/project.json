@@ -1,0 +1,37 @@
+﻿{
+    "id":  "project_gold_nexus_alpha",
+    "slug":  "gold-nexus-alpha",
+    "title":  "Gold Nexus Alpha / NYIT Gold Intelligence 2026",
+    "tier":  "tier-1",
+    "order":  1,
+    "status":  "evidence-collected",
+    "visibility":  "private-draft",
+    "projectType":  "github-code-project",
+    "claimSensitivity":  "high",
+    "evidenceVaultPath":  "D:\\evidence_os_evidence_vault\\projects\\gold-nexus-alpha",
+    "publicSafeDescription":  "",
+    "summary":  "",
+    "primarySkills":  [
+
+                      ],
+    "secondarySkills":  [
+
+                        ],
+    "roleFit":  [
+
+                ],
+    "proofTags":  [
+
+                  ],
+    "highlights":  [
+
+                   ],
+    "metrics":  [
+
+                ],
+    "evidenceStatus":  "collected-pending-ocr-review",
+    "limitations":  [
+
+                    ],
+    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault."
+}

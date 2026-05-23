@@ -1,0 +1,62 @@
+﻿{
+    "policyVersion":  "v6",
+    "globalRule":  "No public claim, recruiter AI answer, resume bullet, project highlight, role-fit explanation, or ATS output can be shown unless it is supported by approved evidence.",
+    "sensitiveAreas":  [
+                           {
+                               "forbiddenClaims":  [
+                                                       "guaranteed prediction",
+                                                       "market-beating system",
+                                                       "investment advice",
+                                                       "proven trading model",
+                                                       "unsupported accuracy"
+                                                   ],
+                               "safeWording":  [
+                                                   "academic AI-assisted forecasting platform",
+                                                   "decision-support explanation",
+                                                   "not investment advice"
+                                               ],
+                               "area":  "Gold forecasting"
+                           },
+                           {
+                               "forbiddenClaims":  [
+                                                       "Hershey endorsed this project",
+                                                       "Hershey sponsored this project",
+                                                       "confidential Hershey data",
+                                                       "Hershey employed or contracted Praveen"
+                                                   ],
+                               "safeWording":  [
+                                                   "independent academic supply chain intelligence project",
+                                                   "public company supply chain context",
+                                                   "no endorsement or affiliation implied"
+                                               ],
+                               "area":  "Hershey"
+                           },
+                           {
+                               "forbiddenClaims":  [
+                                                       "invented client counts",
+                                                       "unsupported revenue impact",
+                                                       "unsupported efficiency claims",
+                                                       "private employer records"
+                                                   ],
+                               "safeWording":  [
+                                                   "operations analytics experience",
+                                                   "Excel trackers",
+                                                   "structured property and market tracking",
+                                                   "stakeholder coordination"
+                                               ],
+                               "area":  "GIAS"
+                           },
+                           {
+                               "forbiddenClaims":  [
+                                                       "institutional endorsement",
+                                                       "formal recommendation without evidence",
+                                                       "merged faculty contexts"
+                                                   ],
+                               "safeWording":  [
+                                                   "faculty/course/project context only where supported",
+                                                   "recommendation only if evidence-approved"
+                                               ],
+                               "area":  "Faculty and recommendations"
+                           }
+                       ]
+}

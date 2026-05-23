@@ -1,0 +1,452 @@
+﻿[
+    {
+        "skillId":  "sql",
+        "name":  "SQL",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "python",
+        "name":  "Python",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "excel",
+        "name":  "Excel",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "tableau",
+        "name":  "Tableau",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "power-bi",
+        "name":  "Power BI",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "kpi-reporting",
+        "name":  "KPI Reporting",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "data-visualization",
+        "name":  "Data Visualization",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "data-analysis",
+        "name":  "Data Analysis",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "data-modeling",
+        "name":  "Data Modeling",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "dashboard-storytelling",
+        "name":  "Dashboard Storytelling",
+        "group":  "Analytics \u0026 BI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "forecasting",
+        "name":  "Forecasting",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "time-series",
+        "name":  "Time Series",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "regression",
+        "name":  "Regression",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "xgboost",
+        "name":  "XGBoost",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "temporal-fusion-transformer",
+        "name":  "Temporal Fusion Transformer",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "ensemble-modeling",
+        "name":  "Ensemble Modeling",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "uncertainty-bands",
+        "name":  "Uncertainty Bands",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "model-validation",
+        "name":  "Model Validation",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "feature-engineering",
+        "name":  "Feature Engineering",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "forecast-evaluation",
+        "name":  "Forecast Evaluation",
+        "group":  "Forecasting \u0026 ML",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "supplier-mapping",
+        "name":  "Supplier Mapping",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "procurement-analysis",
+        "name":  "Procurement Analysis",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "logistics",
+        "name":  "Logistics",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "inventory-management",
+        "name":  "Inventory Management",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "risk-management",
+        "name":  "Risk Management",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "supply-chain-management",
+        "name":  "Supply Chain Management",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "operational-risk",
+        "name":  "Operational Risk",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "control-management",
+        "name":  "Control Management",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "process-documentation",
+        "name":  "Process Documentation",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "commodity-exposure",
+        "name":  "Commodity Exposure",
+        "group":  "Supply Chain \u0026 Risk",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "nextjs",
+        "name":  "Next.js",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "react",
+        "name":  "React",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "typescript",
+        "name":  "TypeScript",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "tailwind-css",
+        "name":  "Tailwind CSS",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "threejs",
+        "name":  "Three.js",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "apis",
+        "name":  "APIs",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "github",
+        "name":  "GitHub",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "vercel",
+        "name":  "Vercel",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "json-first-data-design",
+        "name":  "JSON-first Data Design",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "rag-llm-integration",
+        "name":  "RAG / LLM Integration",
+        "group":  "Data / Product / Web",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "business-analysis",
+        "name":  "Business Analysis",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "financial-analysis",
+        "name":  "Financial Analysis",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "sec-10-k-analysis",
+        "name":  "SEC 10-K Analysis",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "strategy-frameworks",
+        "name":  "Strategy Frameworks",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "stakeholder-communication",
+        "name":  "Stakeholder Communication",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "evidence-governance",
+        "name":  "Evidence Governance",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "ats-optimization",
+        "name":  "ATS Optimization",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "resume-builder",
+        "name":  "Resume Builder",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "job-description-analysis",
+        "name":  "Job Description Analysis",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    },
+    {
+        "skillId":  "interview-preparation",
+        "name":  "Interview Preparation",
+        "group":  "Business / Career AI",
+        "aliases":  [
+
+                    ],
+        "evidenceRequired":  true
+    }
+]

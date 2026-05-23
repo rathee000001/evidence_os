@@ -1,0 +1,14 @@
+﻿[
+    {
+        "slug":  "evidence-os",
+        "title":  "EvidenceOS",
+        "status":  "planned-later",
+        "reason":  "EvidenceOS will be added as a portfolio project after the platform is built, deployed, and has implementation proof."
+    },
+    {
+        "slug":  "previous-portfolio",
+        "title":  "Previous Portfolio Reference",
+        "status":  "planned-later",
+        "reason":  "Previous portfolio can be added as reference/history after core EvidenceOS content backbone is stable."
+    }
+]

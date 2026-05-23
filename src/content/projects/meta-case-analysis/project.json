@@ -1,0 +1,37 @@
+﻿{
+    "id":  "project_meta_case_analysis",
+    "slug":  "meta-case-analysis",
+    "title":  "Meta Strategic Management Case Analysis",
+    "tier":  "tier-2",
+    "order":  6,
+    "status":  "evidence-collected",
+    "visibility":  "private-draft",
+    "projectType":  "case-analysis-project",
+    "claimSensitivity":  "medium",
+    "evidenceVaultPath":  "D:\\evidence_os_evidence_vault\\projects\\meta-case-analysis",
+    "publicSafeDescription":  "",
+    "summary":  "",
+    "primarySkills":  [
+
+                      ],
+    "secondarySkills":  [
+
+                        ],
+    "roleFit":  [
+
+                ],
+    "proofTags":  [
+
+                  ],
+    "highlights":  [
+
+                   ],
+    "metrics":  [
+
+                ],
+    "evidenceStatus":  "collected-pending-ocr-review",
+    "limitations":  [
+
+                    ],
+    "notes":  "Generated in Phase 04 as content backbone placeholder. Raw evidence remains in external vault."
+}
