@@ -1,0 +1,6 @@
+{
+  "publicChatbot": "approved-public-content-only",
+  "adminChatbot": "may-reference-private-local-data-with-labels",
+  "animationIsProof": false,
+  "answerMustUseEvidence": true
+}

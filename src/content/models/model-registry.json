@@ -1,0 +1,44 @@
+[
+  {
+    "modelId": "qwen35_9b_ollama",
+    "ollamaTag": "qwen3.5:9b",
+    "role": "primary_general_multimodal_model",
+    "status": "active"
+  },
+  {
+    "modelId": "qwen3_4b_ollama",
+    "ollamaTag": "qwen3:4b",
+    "role": "fast_text_fallback",
+    "status": "fallback"
+  },
+  {
+    "modelId": "qwen25vl_3b_ollama",
+    "ollamaTag": "qwen2.5vl:3b",
+    "role": "vision_fallback",
+    "status": "fallback"
+  },
+  {
+    "modelId": "deepseek_r1_8b_ollama",
+    "ollamaTag": "deepseek-r1:8b",
+    "role": "reasoning_model",
+    "status": "active"
+  },
+  {
+    "modelId": "qwen25_coder_7b_ollama",
+    "ollamaTag": "qwen2.5-coder:7b",
+    "role": "code_schema_json_model",
+    "status": "active"
+  },
+  {
+    "modelId": "nomic_embed_text_ollama",
+    "ollamaTag": "nomic-embed-text",
+    "role": "embedding_fast",
+    "status": "active"
+  },
+  {
+    "modelId": "bge_m3_ollama",
+    "ollamaTag": "bge-m3",
+    "role": "embedding_quality",
+    "status": "active"
+  }
+]

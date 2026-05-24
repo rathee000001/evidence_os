@@ -1,62 +1,117 @@
-﻿[
-    {
-        "label":  "Dashboard",
-        "group":  "overview",
-        "href":  "/admin"
-    },
-    {
-        "label":  "Analytics",
-        "group":  "overview",
-        "href":  "/admin/analytics"
-    },
-    {
-        "label":  "Contacts",
-        "group":  "career-later",
-        "href":  "/admin/contacts"
-    },
-    {
-        "label":  "Application Tracker",
-        "group":  "career",
-        "href":  "/admin/application-tracker"
-    },
-    {
-        "label":  "Job Copilot",
-        "group":  "career",
-        "href":  "/admin/job-copilot"
-    },
-    {
-        "label":  "Resume Lab",
-        "group":  "career",
-        "href":  "/admin/resume-lab"
-    },
-    {
-        "label":  "Interview Prep",
-        "group":  "career",
-        "href":  "/admin/interview-prep"
-    },
-    {
-        "label":  "Brain Studio",
-        "group":  "ai",
-        "href":  "/admin/brain-studio"
-    },
-    {
-        "label":  "Project Ingest",
-        "group":  "evidence",
-        "href":  "/admin/project-ingest"
-    },
-    {
-        "label":  "Evidence Review",
-        "group":  "evidence",
-        "href":  "/admin/evidence-review"
-    },
-    {
-        "label":  "Asset Studio",
-        "group":  "assets-later",
-        "href":  "/admin/asset-studio"
-    },
-    {
-        "label":  "Settings",
-        "group":  "system",
-        "href":  "/admin/settings"
-    }
+[
+  {
+    "label": "Dashboard",
+    "href": "/admin",
+    "group": "overview"
+  },
+  {
+    "label": "Local AI Health",
+    "href": "/admin/local-ai-health",
+    "group": "ai"
+  },
+  {
+    "label": "Tool Router",
+    "href": "/admin/tool-router",
+    "group": "ai"
+  },
+  {
+    "label": "Model Registry",
+    "href": "/admin/model-registry",
+    "group": "ai"
+  },
+  {
+    "label": "Model Router",
+    "href": "/admin/model-router",
+    "group": "ai"
+  },
+  {
+    "label": "Chatbot Lab",
+    "href": "/admin/chatbot-lab",
+    "group": "ai"
+  },
+  {
+    "label": "Project Ingest",
+    "href": "/admin/project-ingest",
+    "group": "evidence"
+  },
+  {
+    "label": "Project Knowledge",
+    "href": "/admin/project-knowledge",
+    "group": "evidence"
+  },
+  {
+    "label": "Evidence Review",
+    "href": "/admin/evidence-review",
+    "group": "evidence"
+  },
+  {
+    "label": "Job Search",
+    "href": "/admin/job-search",
+    "group": "career"
+  },
+  {
+    "label": "Job Copilot",
+    "href": "/admin/job-copilot",
+    "group": "career"
+  },
+  {
+    "label": "Company Analyzer",
+    "href": "/admin/company-analyzer",
+    "group": "career"
+  },
+  {
+    "label": "Application Tracker",
+    "href": "/admin/application-tracker",
+    "group": "career"
+  },
+  {
+    "label": "Resume Lab",
+    "href": "/admin/resume-lab",
+    "group": "career"
+  },
+  {
+    "label": "Profile Optimizer",
+    "href": "/admin/profile-optimizer",
+    "group": "career"
+  },
+  {
+    "label": "Recommendations",
+    "href": "/admin/recommendations",
+    "group": "evidence"
+  },
+  {
+    "label": "Academics",
+    "href": "/admin/academics",
+    "group": "academic"
+  },
+  {
+    "label": "PhD Search",
+    "href": "/admin/phd-search",
+    "group": "academic"
+  },
+  {
+    "label": "GRE Prep",
+    "href": "/admin/gre-prep",
+    "group": "academic"
+  },
+  {
+    "label": "SOP Lab",
+    "href": "/admin/sop-lab",
+    "group": "academic"
+  },
+  {
+    "label": "Research Writer",
+    "href": "/admin/research-writer",
+    "group": "research"
+  },
+  {
+    "label": "Frontend Playground",
+    "href": "/admin/frontend-playground",
+    "group": "frontend"
+  },
+  {
+    "label": "Settings",
+    "href": "/admin/settings",
+    "group": "system"
+  }
 ]

@@ -1,0 +1,8 @@
+{
+  "mode": "manual-assist",
+  "autoApplyAllowed": false,
+  "recruiterSpamAllowed": false,
+  "publicFrontendSearchAllowed": false,
+  "userManuallyApplies": true,
+  "userManuallyMarksApplied": true
+}

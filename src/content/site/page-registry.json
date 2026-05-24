@@ -1,0 +1,163 @@
+[
+  {
+    "route": "/admin",
+    "title": "Dashboard",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/local-ai-health",
+    "title": "Local AI Health",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/tool-router",
+    "title": "Tool Router",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/model-registry",
+    "title": "Model Registry",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/model-router",
+    "title": "Model Router",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/chatbot-lab",
+    "title": "Chatbot Lab",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/project-ingest",
+    "title": "Project Ingest",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/project-knowledge",
+    "title": "Project Knowledge",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/evidence-review",
+    "title": "Evidence Review",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/job-search",
+    "title": "Job Search",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/job-copilot",
+    "title": "Job Copilot",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/company-analyzer",
+    "title": "Company Analyzer",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/application-tracker",
+    "title": "Application Tracker",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/resume-lab",
+    "title": "Resume Lab",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/profile-optimizer",
+    "title": "Profile Optimizer",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/recommendations",
+    "title": "Recommendations",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/academics",
+    "title": "Academics",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/phd-search",
+    "title": "PhD Search",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/gre-prep",
+    "title": "GRE Prep",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/sop-lab",
+    "title": "SOP Lab",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/research-writer",
+    "title": "Research Writer",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/frontend-playground",
+    "title": "Frontend Playground",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  },
+  {
+    "route": "/admin/settings",
+    "title": "Settings",
+    "visibility": "admin-private",
+    "phase": "07-placeholder",
+    "status": "planned"
+  }
+]

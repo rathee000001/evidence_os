@@ -1,0 +1,12 @@
+{
+  "profileId": "current-local-workstation",
+  "ramGb": 32,
+  "gpu": "NVIDIA RTX 5060",
+  "vramGb": 8,
+  "os": [
+    "Windows",
+    "Ubuntu/WSL"
+  ],
+  "storageRoot": "D:/AI",
+  "routingNote": "Use combo/router execution; do not force all models to run together."
+}

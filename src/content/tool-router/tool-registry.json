@@ -1,0 +1,12 @@
+[
+  "manual_url_importer",
+  "pasted_text_importer",
+  "screenshot_pdf_import_policy",
+  "webpage_fetch_adapter",
+  "private_web_search_adapter_placeholder",
+  "github_connector_adapter",
+  "company_career_page_parser",
+  "job_board_manual_parser_policy",
+  "phd_program_page_parser",
+  "professor_lab_page_parser"
+]

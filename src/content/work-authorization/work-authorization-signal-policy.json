@@ -1,0 +1,12 @@
+{
+  "legalAdvice": false,
+  "guarantee": false,
+  "signalTypes": [
+    "confirmed-from-job-post",
+    "inferred-from-public-data",
+    "historical-public-data",
+    "user-marked",
+    "unknown",
+    "needs-verification"
+  ]
+}

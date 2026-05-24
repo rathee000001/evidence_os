@@ -1,0 +1,14 @@
+{
+  "version": "model-router-v1",
+  "comboExecution": true,
+  "noAllModelsAtOnce": true,
+  "roles": {
+    "embedding_fast": "nomic-embed-text",
+    "embedding_quality": "bge-m3",
+    "primary_general_multimodal_model": "qwen3.5:9b",
+    "fast_text_fallback": "qwen3:4b",
+    "vision_fallback": "qwen2.5vl:3b",
+    "reasoning_model": "deepseek-r1:8b",
+    "code_schema_json_model": "qwen2.5-coder:7b"
+  }
+}
