@@ -1,0 +1,28 @@
+﻿{
+  "phase": "08",
+  "projectStudyMode": "project-by-project",
+  "adminInternetResearchDefault": true,
+  "publicInternetResearchAllowed": false,
+  "runInternetResearchBeforeNarrative": true,
+  "skipInternetResearchIfPacketExists": true,
+  "rawEvidenceSentToSearch": false,
+  "privateDataSentToSearch": false,
+  "internetResearchPacketPath": "06_web/internet_research_packet.json",
+  "internetResearchSummaryPath": "06_web/internet_research_summary.md",
+  "modelWorkflow": [
+    "tool_extraction",
+    "ocr",
+    "source_evidence_maps",
+    "admin_internet_research_packet",
+    "evidence_packet",
+    "qwen3_4b_narrative",
+    "qwen25_coder_json_structuring",
+    "deepseek_claim_safety",
+    "human_review"
+  ],
+  "notes": [
+    "Internet research is admin-only and sanitized.",
+    "Do not redo internet research if a packet already exists for the project.",
+    "Models do not browse directly; Tool Router creates the research packet."
+  ]
+}
